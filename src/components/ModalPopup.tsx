@@ -53,7 +53,7 @@ const ModalPopup: React.FC<ComponentProps> = ({visible, close}) => {
               style={styles.image}
             />
             <Text style={styles.message}>
-              Congratulations registration wa successfully
+              Congratulations registration was successful
             </Text>
           </View>
         </Animated.View>
